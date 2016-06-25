@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnDemandWebServer", "OnDemandWebServer\OnDemandWebServer.csproj", "{5E03F2CB-42CE-4BA7-B8E8-4CCB2580964D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnDemandWebServerTests", "OnDemandWebServerTests\OnDemandWebServerTests.csproj", "{FF846E14-E411-46A0-8AC6-929E74965C35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E03F2CB-42CE-4BA7-B8E8-4CCB2580964D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E03F2CB-42CE-4BA7-B8E8-4CCB2580964D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E03F2CB-42CE-4BA7-B8E8-4CCB2580964D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E03F2CB-42CE-4BA7-B8E8-4CCB2580964D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF846E14-E411-46A0-8AC6-929E74965C35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF846E14-E411-46A0-8AC6-929E74965C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF846E14-E411-46A0-8AC6-929E74965C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF846E14-E411-46A0-8AC6-929E74965C35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
